@@ -19,7 +19,7 @@ Step 5: Run terminal for output of the given program.
 Step 6: End the program.
 
 ## PROGRAM:
-<<<<<<< HEAD
+
 ```
 # Developed by HARSHAVARDHINI M
 # Reference no 21500625
@@ -36,6 +36,8 @@ print("Number of words={}".format(num_words))
 ## OUTPUT:
 
 ![dov](./sss.png)
+
+
 ![doc](ss.png)
 
 
