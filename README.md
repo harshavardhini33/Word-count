@@ -19,9 +19,10 @@ Step 5: Run terminal for output of the given program.
 Step 6: End the program.
 
 ## PROGRAM:
-### Developed by HARSHAVARDHINI M
-### Reference no 21500625
-### To write a program for getting the word count from a file.
+```
+# Developed by HARSHAVARDHINI M
+# Reference no 21500625
+# To write a program for getting the word count from a file.
 
 num_words =0
 with open('text.txt','r') as file1:
@@ -29,6 +30,7 @@ with open('text.txt','r') as file1:
         word =i.split()
         num_words += len(word)
 print("Number of words={}".format(num_words))
+```
 
 ## OUTPUT:
 
